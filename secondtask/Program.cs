@@ -1,4 +1,4 @@
 ﻿Console.Write("Enter name: ");
 string entername = Console.ReadLine();
-Console.Write("hallow ");
+Console.WriteLine("hallow ");
 Console.Write(entername);
