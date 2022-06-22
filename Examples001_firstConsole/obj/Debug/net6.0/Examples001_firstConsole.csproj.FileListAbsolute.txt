@@ -1,0 +1,15 @@
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\bin\Debug\net6.0\Examples001_firstConsole.exe
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\bin\Debug\net6.0\Examples001_firstConsole.deps.json
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\bin\Debug\net6.0\Examples001_firstConsole.runtimeconfig.json
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\bin\Debug\net6.0\Examples001_firstConsole.dll
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\bin\Debug\net6.0\Examples001_firstConsole.pdb
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.csproj.AssemblyReference.cache
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.AssemblyInfoInputs.cache
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.AssemblyInfo.cs
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.csproj.CoreCompileInputs.cache
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.dll
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\refint\Examples001_firstConsole.dll
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.pdb
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\Examples001_firstConsole.genruntimeconfig.cache
+C:\Users\Smirnov_ON\Desktop\studt_folder\Examples001_firstConsole\obj\Debug\net6.0\ref\Examples001_firstConsole.dll
